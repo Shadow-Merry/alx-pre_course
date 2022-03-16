@@ -1,0 +1,10 @@
+GIT Commands
+git add : to add to git
+git commit : to commit the newly added files
+git status : to check the status
+git push : to push the changes
+git branch <branch> : to create new branch
+git checkout <branch> : to change to this branch
+git push -u <remote> <branch> : to push the branch
+git pull : to get the updated file
+git commit -m : to write a message about the change
